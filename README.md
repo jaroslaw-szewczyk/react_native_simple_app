@@ -1,15 +1,15 @@
 # 📱 Expo Tutorial App
 
-Przykładowy projekt stworzony na podstawie oficjalnej dokumentacji [Expo](https://docs.expo.dev/). Repozytorium służy do nauki korzystania z narzędzia Expo oraz podstaw React Native.
+A sample project based on the official Expo documentation. This repository is intended for learning how to use the Expo tool and understanding the basics of React Native.
 
-## 🎯 Cel projektu
+## 🎯 Project Goals
 
-- Poznanie struktury aplikacji tworzonej z użyciem Expo
-- Ćwiczenie pracy z komponentami React Native
-- Testowanie działania aplikacji na emulatorze i fizycznym urządzeniu
-- Nauka pracy z konsolą, Git oraz GitHub
+- Learn the structure of an application built with Expo  
+- Practice working with React Native components  
+- Test the app on both an emulator and a physical device  
+- Gain experience using the command line, Git, and GitHub  
 
-## 🛠️ Technologie
+## 🛠️ Technologies
 
 - [Expo](https://expo.dev/)
 - [React Native](https://reactnative.dev/)
