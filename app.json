@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "calixy",
-    "slug": "calixy",
+    "name": "react_native_simple_app",
+    "slug": "react_native_simple_app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "calixy",
+    "scheme": "react_native_simple_app",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
